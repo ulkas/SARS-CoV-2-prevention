@@ -16,6 +16,7 @@
   - nepodavame ruky
   - rozpravame sa s odstupom aspon 1m
   - nevymiename si navarene jedlo alebo kolace
+  - nechytat zbytocne mobil
   - medzi clenmi spolocnej domacnosti toto samozrejme neplati
   
 8: vsetky zakupene veci pokial mozno nechame 3 dni "odstat", az potom ich budeme pouzivat - s casom sa znizuje zivotnost virusov
