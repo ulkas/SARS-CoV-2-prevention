@@ -13,3 +13,5 @@
 6: uteraky vymienat kazdy den
 
 7: nenosit naramky ani prstene
+
+8: 1x denne vykloktat hrdlo - virus sa najprv zdrziava niekolko dni v hrdle az nasledne zchadza do pluc
