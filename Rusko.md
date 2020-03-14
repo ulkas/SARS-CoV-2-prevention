@@ -13,3 +13,7 @@
 5: kazdy clen domacnosti ma oznacene svoje vlastne ruska
 
 6: bavlnene ruska oprat na 60 a ozehlit, alebo zaliat vriacou vodou
+
+7: holit sa len strojcekom, nie ziletkou - drobne rany na tvari o ziletke zvysuju riziko infekcie
+
+8: oholi bradu aj fuzy na miestach, kde ma rusko izolovat tvar - medzera medzi chlpmi znizuje ucinok ruska
