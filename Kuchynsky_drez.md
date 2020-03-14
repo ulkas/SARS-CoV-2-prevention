@@ -1,7 +1,16 @@
 # nalepit nad kuchynsky drez
 
-1: dokladne umyvanie zeleniny a ovocia:
+1: dokladne umyvanie zeleniny a ovocia, vratane pomarancov a bananov:
   - 1 minutu aj saponatom a hubkou.
-2: nenechavat spinavy riad v dreze - rozmnozene bakterie mozu sopsobit infekciu, ktora oslabi organizmus
+  
+2: nenechavat spinavy riad v dreze - rozmnozene bakterie mozu sposobit infekciu, ktora oslabi organizmus
+
 3: zasady spracovania surovin:
-  - kazdu surovinu krajat vlastn
+  - kazdu surovinu krajat vlastnym nozom a podnosom
+  - umyvat ruky pocas varenia - napriklad po nakrajani masa aj pred krajanim zemiakov
+  
+ 4: uskladnenu polievku z chladnicky znovu pred konzumaciou prevarit
+ 
+ 5: ostatne hotove jedla z chladnicky pokial mozno vzdy poriadne zohriat
+ 
+ 6: hotovy masovy pokrm nezohrievat v mikrovlnke - nicia sa tym B vitaminy
