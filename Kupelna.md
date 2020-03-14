@@ -1,6 +1,6 @@
 # nalepit v kupelni
 
-1: umyvat ruky 1 minutu s mydlom
+1: umyvat ruky 1 minutu s mydlom, pod nechtami, aj zapastia
 
 2: alkoholove mydla pouzivat najma vonku, doma staci aj mydlo - znizovat vysusovanie koze
 
@@ -11,3 +11,5 @@
 5: bezne oblecenie sa perie na 60, nenosit oblecenie, ktore sa neda oprat na 60.
 
 6: uteraky vymienat kazdy den
+
+7: nenosit naramky ani prstene
