@@ -1,4 +1,4 @@
-# pravidla s ruskom
+﻿# pravidla s ruskom
 
 1: rusko si nasadit uz doma s cistymi rukami
 
@@ -14,6 +14,8 @@
 
 6: bavlnene ruska oprat na 60 a ozehlit, alebo zaliat vriacou vodou
 
-7: holit sa len strojcekom, nie ziletkou - drobne rany na tvari o ziletke zvysuju riziko infekcie
+7: holit sa len strojcekom, nie ziletkou - drobne rany na tvari po ziletke zvysuju riziko infekcie
 
-8: oholi bradu aj fuzy na miestach, kde ma rusko izolovat tvar - medzera medzi chlpmi znizuje ucinok ruska
+8: oholit bradu aj fuzy na miestach, kde ma rusko izolovat tvar - medzera medzi chlpmi znizuje ucinok ruska
+
+9: nudzove navstevy (opravar) poprosit umjyt ruky a nasadit jednorazove rusko (zelene, 4ks v sacku) pri vstupe, potom nech si ho zoberu so sebou

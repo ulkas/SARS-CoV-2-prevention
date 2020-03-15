@@ -1,4 +1,4 @@
-# potravinove pravidla
+﻿# potravinove pravidla
 
 1: nakupovat chodi len 1 povereny clen domacnosti
 
@@ -20,4 +20,5 @@
 
 - chlieb iba baleny
 - vela ovocia a zeleniny
+- mat vyhradene oblecenie iba na nakupovanie 
 

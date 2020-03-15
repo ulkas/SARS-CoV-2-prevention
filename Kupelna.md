@@ -1,4 +1,4 @@
-# nalepit v kupelni
+﻿# nalepit v kupelni
 
 1: umyvat ruky 1 minutu s mydlom, pod nechtami, aj zapastia
 
@@ -14,4 +14,4 @@
 
 7: nenosit naramky ani prstene
 
-8: 1x denne vykloktat hrdlo - virus sa najprv zdrziava niekolko dni v hrdle az nasledne zchadza do pluc
+8: 1x denne vykloktat hrdlo, jest vitamin C, byt vela na slnku kvoli vitaminu D

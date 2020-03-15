@@ -1,4 +1,4 @@
-# nalepit nad kuchynsky drez
+﻿# nalepit nad kuchynsky drez
 
 1: dokladne umyvanie zeleniny a ovocia, vratane pomarancov a bananov:
   - 1 minutu aj saponatom a hubkou.
@@ -7,10 +7,10 @@
 
 3: zasady spracovania surovin:
   - kazdu surovinu krajat vlastnym nozom a podnosom
-  - umyvat ruky pocas varenia - napriklad po nakrajani masa aj pred krajanim zemiakov
+  - neustale umyvat ruky pocas varenia - napriklad po nakrajani masa aj pred krajanim zemiakov
   
- 4: uskladnenu polievku z chladnicky znovu pred konzumaciou prevarit
+ 4: uskladnenu polievku z chladnicky znovu pred konzumaciou priviest do bodu varu, nezohrievat len v mikrovlnke
  
- 5: ostatne hotove jedla z chladnicky pokial mozno vzdy poriadne zohriat
+ 5: ostatne hotove jedla z chladnicky pokial mozno vzdy poriadne zohriat, nie len v mikrovlnke ohrievat
  
  6: hotovy masovy pokrm nezohrievat v mikrovlnke - nicia sa tym B vitaminy

@@ -1,4 +1,4 @@
-# na vchodove dvere z vnutornej strany
+﻿# na vchodove dvere z vnutornej strany
 
 1: pri odchode si nechat volnu cestu do kupelne, otvorene dvere a zasvietene - po navrate sa tak nemusim dotykat spinavymi rukami cestou do kupelne
 
@@ -12,11 +12,10 @@
 
 6: zakaz navstev - so susedmi sa rozpravat radsej cez okno / balkon nez na chodbe domu
 
-7: na prechadzke vonku si s ostatnymi:
+7: na prechadzke vonku si s cudzimi:
   - nepodavame ruky
   - rozpravame sa s odstupom aspon 1m
   - nevymiename si navarene jedlo alebo kolace
   - nechytat zbytocne mobil
-  - medzi clenmi spolocnej domacnosti toto samozrejme neplati
   
-8: vsetky zakupene veci pokial mozno nechame 3 dni "odstat", az potom ich budeme pouzivat - s casom sa znizuje zivotnost virusov
+8: vsetky zakupene veci pokial mozno nechame 3 dni "odstat", az potom ich budeme pouzivat – lebo s casom sa znizuje zivotnost virusov
